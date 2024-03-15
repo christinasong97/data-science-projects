@@ -1,5 +1,5 @@
 # Data Mining Principles - Project Design
-## Group 9: Toby Chiu, Jacky Lin, Joon Park, Christina Song
+## Team: Toby Chiu, Jacky Lin, Joon Park, Christina Song
 ### Case Description:
 Yelp is the premier place to find user reviews and recommendations on restaurants and business. The data that we plan to analyze is from the Yelp Dataset Challenge webpage, which contains a total of 77,000 businesses, 2.2 million reviews, 552,000 user information, and 566,000 business attributes coming from 5 different datasets: business, review, user, checkin, and tip. The ‘business’ dataset contains attributes relating to a business: location (provided by longitude and latitude), type of business, name of business, and business category. The dataset also contains the ratings and the stars left by the customers. The ‘review’ dataset contains information about the reviews that a user leaves for a business and other metrics such as the number of likes the comments received from other users. The user dataset consists of information about the Yelp user such as the number of reviews left by the said user. The full length of features and tables are included at the end of this project design.
 
